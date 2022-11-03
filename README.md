@@ -4,13 +4,13 @@
 3. Tablega configuration yozing.
 4. Action filter yozing.
 
-> Input
-0 < N < int.MaxValue
-0 <= k <= 9
+> Input: \
+0 < N < int.MaxValue \
+0 <= k <= 9 
 
-> Input #1
-N = 33
-K = 3
+> Input #1 \
+N = 33 \
+K = 3 
 
-> Output #1
-Answer: 8
+> Output #1 \
+Answer: 8 
